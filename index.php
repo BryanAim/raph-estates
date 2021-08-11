@@ -334,7 +334,7 @@ if(isset($_SESSION['userid']))
                 <a href="city.php?city=Milimani"><div class="imgcol tint"><img src="img/jaipur.jpg" class="img-responsive"><span class="cityname">Milimani</span></div></a>
             </div>
             <div class="row">
-                <a href="city.php?city=Chennai"><div class="imgcol tint"><img src="img/chennai.jpg" class="img-responsive"><span class="cityname">Chennai</span></div></a>
+                <a href="city.php?city=Kabachia"><div class="imgcol tint"><img src="img/chennai.jpg" class="img-responsive"><span class="cityname">Kabachia</span></div></a>
                 <a href="city.php?city=Koltaka"><div class="imgcol tint"><img src="img/kolkata.jpg" class="img-responsive"><span class="cityname">Kolkata</span></div></a>
                 <a href="city.php?city=Bangalore"><div class="imgcol tint"><img src="img/banglore.jpg" class="img-responsive"><span class="cityname">Bangalore</span></div></a>
                <a href="city.php?city=Hyderabad"> <div class="imgcol tint"><img src="img/hyderabad.jpg" class="img-responsive"><span class="cityname">Hyderabad</span></div></a>
@@ -362,7 +362,7 @@ if(isset($_SESSION['userid']))
                 <li><a href="city.php?city=Milimani" style="text-decoration:none;color:#CCC">Milimani</a></li>
                 <li><a href="city.php?city=Bangalore" style="text-decoration:none;color:#CCC">Bangalore</a></li>
                 <li><a href="city.php?city=Hyderabad" style="text-decoration:none;color:#CCC">Hyderabad</a></li>
-                <li><a href="city.php?city=Chennai" style="text-decoration:none;color:#CCC">Chennai</a></li>
+                <li><a href="city.php?city=Kabachia" style="text-decoration:none;color:#CCC">Kabachia</a></li>
                 <li><a href="city.php?city=Kolkaka" style="text-decoration:none;color:#CCC">Kolkata</a></li>
               </ul>
             </div>

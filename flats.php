@@ -414,7 +414,7 @@ while($arr1=$res1->fetch_array())
                 <li><a href="city.php?city=Milimani" style="text-decoration:none;color:#CCC">Milimani</a></li>
                 <li><a href="city.php?city=Bangalore" style="text-decoration:none;color:#CCC">Bangalore</a></li>
                 <li><a href="city.php?city=Hyderabad" style="text-decoration:none;color:#CCC">Hyderabad</a></li>
-                <li><a href="city.php?city=Chennai" style="text-decoration:none;color:#CCC">Chennai</a></li>
+                <li><a href="city.php?city=Kabachia" style="text-decoration:none;color:#CCC">Kabachia</a></li>
                 <li><a href="city.php?city=Kolkaka" style="text-decoration:none;color:#CCC">Kolkata</a></li>
               </ul>
             </div>

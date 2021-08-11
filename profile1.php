@@ -605,7 +605,7 @@ function initMap2() {
                 <li><a href="" style="text-decoration:none;color:#CCC">Milimani</li>
                 <li><a href="" style="text-decoration:none;color:#CCC">Bangalore</li>
                 <li><a href="" style="text-decoration:none;color:#CCC">Hyderabad</li>
-                <li><a href="" style="text-decoration:none;color:#CCC">Chennai</li>
+                <li><a href="" style="text-decoration:none;color:#CCC">Kabachia</li>
                 <li><a href="" style="text-decoration:none;color:#CCC">Kolkata</li>
               </ul>
             </div>
