@@ -216,7 +216,7 @@ $message=$arr['message'];
                 <li><a href="city.php?city=Ahmedabad" style="text-decoration:none;color:#CCC">Ahmedabad</a></li>
                 <li><a href="city.php?city=Milimani" style="text-decoration:none;color:#CCC">Milimani</a></li>
                 <li><a href="city.php?city=Lakeview" style="text-decoration:none;color:#CCC">Lakeview</a></li>
-                <li><a href="city.php?city=Hyderabad" style="text-decoration:none;color:#CCC">Hyderabad</a></li>
+                <li><a href="city.php?city=Section58" style="text-decoration:none;color:#CCC">Section58</a></li>
                 <li><a href="city.php?city=Kabachia" style="text-decoration:none;color:#CCC">Kabachia</a></li>
                 <li><a href="city.php?city=Kolkaka" style="text-decoration:none;color:#CCC">Freehold</a></li>
               </ul>
