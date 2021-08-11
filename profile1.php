@@ -599,7 +599,7 @@ function initMap2() {
             <div class="col-md-5">
               <h2 style="color:white;font-size:25px;font-family: 'Yanone Kaffeesatz', sans-serif;">Find Real Estate in your City</h2>
               <ul>
-                <li><a href="" style="text-decoration:none;color:#CCC">Delhi</li>
+                <li><a href="" style="text-decoration:none;color:#CCC">Shabab</li>
                 <li><a href="" style="text-decoration:none;color:#CCC">Mumbai</li>
                 <li><a href="" style="text-decoration:none;color:#CCC">Ahemdabad</li>
                 <li><a href="" style="text-decoration:none;color:#CCC">Jaipur</li>
