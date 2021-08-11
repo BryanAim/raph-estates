@@ -18,7 +18,7 @@
         </script>
   
 
-    <title>DreamVilla</title>
+    <title>RaphEstates</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -90,7 +90,7 @@ $userid=$_SESSION['userid'];
      <div class="container navc">
           <div class="cityname"><p><?php echo $city;?><br></p></div>
           <div style="float:left;margin-left:-5%;margin-top:-2%;"><img src="img/logo2.png" class="img-responsive"></div>
-     <a class="navbar-brand" href="#"><font size="10" color="white">DreamVilla</font></a>
+     <a class="navbar-brand" href="#"><font size="10" color="white">RaphEstates</font></a>
      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -398,8 +398,8 @@ while($arr1=$res1->fetch_array())
       <div class="foot" style="min-height:350px;background:#4D4C4C;margin-top:5%">
         <div class="row">
           <div class="col-md-6">
-            <h1 style="color:White;font-size:35px;text-align:center;margint-top:5%;font-family: 'Lobster', cursive;">DreamVilla</h1>
-            <p style="color:#CCC;font-size:20px;margin-left:5%;">DreamVilla is India's No 1 Property portal and has been Awarded as the most preferred property site in India, by independent surveys. 
+            <h1 style="color:White;font-size:35px;text-align:center;margint-top:5%;font-family: 'Lobster', cursive;">RaphEstates</h1>
+            <p style="color:#CCC;font-size:20px;margin-left:5%;">RaphEstates is India's No 1 Property portal and has been Awarded as the most preferred property site in India, by independent surveys. 
             Our Webiste provides a platform for property buyers and sellers to locate properties of interest and helps the buyer and seller to communicate
             with each other and provide umambiguous services.</p>
           </div>
