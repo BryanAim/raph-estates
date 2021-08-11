@@ -568,7 +568,7 @@ function initMap2() {
                 <li><a href="" style="text-decoration:none;color:#CCC">Shabab</li>
                 <li><a href="" style="text-decoration:none;color:#CCC">Lanet</li>
                 <li><a href="" style="text-decoration:none;color:#CCC">Ahemdabad</li>
-                <li><a href="" style="text-decoration:none;color:#CCC">Jaipur</li>
+                <li><a href="" style="text-decoration:none;color:#CCC">Milimani</li>
                 <li><a href="" style="text-decoration:none;color:#CCC">Bangalore</li>
                 <li><a href="" style="text-decoration:none;color:#CCC">Hyderabad</li>
                 <li><a href="" style="text-decoration:none;color:#CCC">Chennai</li>

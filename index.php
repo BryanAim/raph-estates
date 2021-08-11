@@ -331,7 +331,7 @@ if(isset($_SESSION['userid']))
                 <a href="city.php?city=Shabab"><div class="imgcol tint"><img src="img/delhi.jpg" class="img-responsive"><span class="cityname">Shabab</span></div></a>
                 <a href="city.php?city=Lanet"><div class="imgcol tint"><img src="img/mumbai.jpg" class="img-responsive"><span class="cityname">Lanet</span></div></a>
                 <a href="city.php?city=Ahmedabad"><div class="imgcol tint"><img src="img/ahemdabad.jpg" class="img-responsive"><span class="cityname">Ahemdabad</span></div></a>
-                <a href="city.php?city=Jaipur"><div class="imgcol tint"><img src="img/jaipur.jpg" class="img-responsive"><span class="cityname">Jaipur</span></div></a>
+                <a href="city.php?city=Milimani"><div class="imgcol tint"><img src="img/jaipur.jpg" class="img-responsive"><span class="cityname">Milimani</span></div></a>
             </div>
             <div class="row">
                 <a href="city.php?city=Chennai"><div class="imgcol tint"><img src="img/chennai.jpg" class="img-responsive"><span class="cityname">Chennai</span></div></a>
@@ -359,7 +359,7 @@ if(isset($_SESSION['userid']))
                 <li><a href="city.php?city=Shabab" style="text-decoration:none;color:#CCC">Shabab</a></li>
                 <li><a href="city.php?city=Lanet" style="text-decoration:none;color:#CCC">Lanet</a></li>
                 <li><a href="city.php?city=Ahmedabad" style="text-decoration:none;color:#CCC">Ahmedabad</a></li>
-                <li><a href="city.php?city=Jaipur" style="text-decoration:none;color:#CCC">Jaipur</a></li>
+                <li><a href="city.php?city=Milimani" style="text-decoration:none;color:#CCC">Milimani</a></li>
                 <li><a href="city.php?city=Bangalore" style="text-decoration:none;color:#CCC">Bangalore</a></li>
                 <li><a href="city.php?city=Hyderabad" style="text-decoration:none;color:#CCC">Hyderabad</a></li>
                 <li><a href="city.php?city=Chennai" style="text-decoration:none;color:#CCC">Chennai</a></li>
