@@ -279,7 +279,7 @@ if(isset($_SESSION['userid']))
                 <li><a href="city.php?city=Bangalore" style="text-decoration:none;color:#CCC">Bangalore</a></li>
                 <li><a href="city.php?city=Hyderabad" style="text-decoration:none;color:#CCC">Hyderabad</a></li>
                 <li><a href="city.php?city=Kabachia" style="text-decoration:none;color:#CCC">Kabachia</a></li>
-                <li><a href="city.php?city=Kolkaka" style="text-decoration:none;color:#CCC">Kolkata</a></li>
+                <li><a href="city.php?city=Kolkaka" style="text-decoration:none;color:#CCC">Freehold</a></li>
               </ul>
             </div>
               
