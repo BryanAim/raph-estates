@@ -387,7 +387,7 @@ if(isset($_SESSION['userid']))
         </div>
         <div class="row" style="background:#2E2F31;">
           <div class="col-md-6 col-md-push-3">
-            <p style="color:#CCC;text-align:center">&copy:2015 Web-Design and Developed by Cluesless Idiots.</p>
+            <p style="color:#CCC;text-align:center">&copy:2015 Web-Design and Developed by Raphael Mesianito.</p>
           </div>
         </div>
       </div>
