@@ -12,7 +12,7 @@
     <script src="js/jquery.hoverfold.js"></script>
     <script src="js/modernizr.custom.69142.js"></script>
 
-    <title>DreamVilla</title>
+    <title>RaphEstates</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -49,7 +49,7 @@ session_start();
       <div class="navbar navbar-inverse">
      <div class="container navc">
      <div style="float:left;margin-left:-5%;margin-top:-2%;"><img src="img/logo2.png" class="img-responsive"></div>
-     <a class="navbar-brand" href="#"><font size="10" color="white">DreamVilla</font></a>
+     <a class="navbar-brand" href="#"><font size="10" color="white">RaphEstates</font></a>
      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -282,7 +282,7 @@ if(isset($_SESSION['userid']))
       <div class="carousel-inner">
         <div class="item active container">
             <h2>About Us</h2>
-            <p>DreamVilla is India's No 1 Property portal and has been Awarded as the most preferred property site in India, by independent surveys.</p>
+            <p>RaphEstates is India's No 1 Property portal and has been Awarded as the most preferred property site in India, by independent surveys.</p>
         </div>
 
         <div class="item container">
@@ -307,15 +307,15 @@ if(isset($_SESSION['userid']))
       <div class="container">
           <h2 class="h2" style="color:#8C6599;">What We Do</h2>
           <hr>
-          <p style="font-family:"PT Sans Narrow",sans-serif;"><font size="5px" color="#555">At DreamVilla, we aim to give home-seekers variety of properties to search from.  To make your house search easy, we have created a simple yet innovative interface. You can explore flats in your neighbourhood and take a virtual tour of every property. With 100% verified listings and genuine pictures of properties, getting your new place is just a few clicks away!</font></p>
+          <p style="font-family:"PT Sans Narrow",sans-serif;"><font size="5px" color="#555">At RaphEstates, we aim to give home-seekers variety of properties to search from.  To make your house search easy, we have created a simple yet innovative interface. You can explore flats in your neighbourhood and take a virtual tour of every property. With 100% verified listings and genuine pictures of properties, getting your new place is just a few clicks away!</font></p>
       </div>
 
 
     <div class="container" style="margin-top:10%;">
       <div class="row row-no-padding">
-        <div class="col-md-3 cl1 row-no-padding infobox"><h2 style="color:white;text-align:center;font-family: 'Yanone Kaffeesatz', sans-serif;font-size:40px;"><b>Why Us ?</b></h1><p style="color:white;text-align:center;font-size:20px;">DreamVilla is India's No 1 Property portal and has been Awarded as the most preferred property site in India, by independent surveys. Our Webiste provides a platform for property buyers and sellers to locate properties of interest and helps the buyer and seller to communicate with each other and provide umambiguous services.</p></div>
+        <div class="col-md-3 cl1 row-no-padding infobox"><h2 style="color:white;text-align:center;font-family: 'Yanone Kaffeesatz', sans-serif;font-size:40px;"><b>Why Us ?</b></h1><p style="color:white;text-align:center;font-size:20px;">RaphEstates is India's No 1 Property portal and has been Awarded as the most preferred property site in India, by independent surveys. Our Webiste provides a platform for property buyers and sellers to locate properties of interest and helps the buyer and seller to communicate with each other and provide umambiguous services.</p></div>
         <div class="col-md-3 cl1 row-no-padding"><div class="row row-no-padding"><div class="col-md-12 climg row-no-padding"><img  src="img/homep.jpg" width="285" height="300"></div></div><div class="row row-no-padding"><div class="col-md-12 cltext infobox row-no-padding"><h2>Buy.Sell.Rent</h2><p>Our website provides variety of options for the user to search and choose property according to his/hers need. User can either buy or sell the property and get in contact with each other through our chat feature.</p></div></div></div>
-         <div class="col-md-3 cl1 row-no-padding"><div class="row row-no-padding"><div class="col-md-12 cltext infobox row-no-padding"> <h2 style="color:#8C6599;">Chat Feature</h2><p>Introducing the new feature of DreamVilla , the buyer can directly chat with seller securely and privately and receive notifications according to it.</p></div></div><div class="row row-no-padding"><div class="col-md-12 climg row-no-padding"><img src="img/chat.jpg" width="285" height="300"></div></div></div>
+         <div class="col-md-3 cl1 row-no-padding"><div class="row row-no-padding"><div class="col-md-12 cltext infobox row-no-padding"> <h2 style="color:#8C6599;">Chat Feature</h2><p>Introducing the new feature of RaphEstates , the buyer can directly chat with seller securely and privately and receive notifications according to it.</p></div></div><div class="row row-no-padding"><div class="col-md-12 climg row-no-padding"><img src="img/chat.jpg" width="285" height="300"></div></div></div>
           <div class="col-md-3 cl1 row-no-padding"><div class="row row-no-padding"><div class="col-md-12 climg row-no-padding"><img src="img/map.jpg" width="285" height="300"></div></div><div class="row row-no-padding"><div class="col-md-12 cltext infobox row-no-padding"><h2>Locate on Google Map</h2><p>The user can check out the location of the property using Google Maps , one can find all the ameneties nearby the property and check out the location while relaxing at your home.</p></div></div></div>
         
       </div> 
@@ -346,8 +346,8 @@ if(isset($_SESSION['userid']))
       <div class="foot" style="min-height:350px;background:#4D4C4C;margin-top:5%">
         <div class="row">
           <div class="col-md-6">
-            <h1 style="color:White;font-size:35px;text-align:center;margint-top:5%;font-family: 'Lobster', cursive;">DreamVilla</h1>
-            <p style="color:#CCC;font-size:20px;margin-left:5%;">DreamVilla is India's No 1 Property portal and has been Awarded as the most preferred property site in India, by independent surveys. 
+            <h1 style="color:White;font-size:35px;text-align:center;margint-top:5%;font-family: 'Lobster', cursive;">RaphEstates</h1>
+            <p style="color:#CCC;font-size:20px;margin-left:5%;">RaphEstates is India's No 1 Property portal and has been Awarded as the most preferred property site in India, by independent surveys. 
             Our Webiste provides a platform for property buyers and sellers to locate properties of interest and helps the buyer and seller to communicate
             with each other and provide umambiguous services.</p>
           </div>
