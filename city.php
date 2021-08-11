@@ -570,7 +570,7 @@ function showValue(num){
         <div class="row">
           <div class="col-md-6">
             <h1 style="color:White;font-size:35px;text-align:center;margint-top:5%;font-family: 'Lobster', cursive;">RaphEstates</h1>
-            <p style="color:#CCC;font-size:20px;margin-left:5%;">RaphEstates is India's No 1 Property portal and has been Awarded as the most preferred property site in India, by independent surveys. 
+            <p style="color:#CCC;font-size:20px;margin-left:5%;">RaphEstates is Nakuru's No 1 Property portal and has been Awarded as the most preferred property site in Nakuru, by independent surveys. 
             Our Webiste provides a platform for property buyers and sellers to locate properties of interest and helps the buyer and seller to communicate
             with each other and provide umambiguous services.</p>
           </div>
