@@ -305,7 +305,7 @@
             <div class="filterlistcontainer">
                  <div class="row filterlist"> 
                   
-                         <div class="col-md-3"><h4 style="margin-top:12%;">Mumbai</h4></div>
+                         <div class="col-md-3"><h4 style="margin-top:12%;">Lanet</h4></div>
                          <div class="col-md-5">
                            <b>Budget:</b> 40 to 50 lacs <br>
                            <b>Area:</b> 2000 to 3000 sq.ft <br>
@@ -315,7 +315,7 @@
                  </div>
                   <div class="row filterlist"> 
                   
-                         <div class="col-md-3"><h4 style="margin-top:12%;">Mumbai</h4></div>
+                         <div class="col-md-3"><h4 style="margin-top:12%;">Lanet</h4></div>
                          <div class="col-md-5">
                            <b>Budget:</b> 40 to 50 lacs <br>
                            <b>Area:</b> 2000 to 3000 sq.ft <br>
@@ -493,7 +493,7 @@
               <h2 style="color:white;font-size:25px;font-family: 'Yanone Kaffeesatz', sans-serif;">Find Real Estate in your City</h2>
               <ul>
                 <li><a href="" style="text-decoration:none;color:#CCC">Shabab</li>
-                <li><a href="" style="text-decoration:none;color:#CCC">Mumbai</li>
+                <li><a href="" style="text-decoration:none;color:#CCC">Lanet</li>
                 <li><a href="" style="text-decoration:none;color:#CCC">Ahemdabad</li>
                 <li><a href="" style="text-decoration:none;color:#CCC">Jaipur</li>
                 <li><a href="" style="text-decoration:none;color:#CCC">Bangalore</li>
