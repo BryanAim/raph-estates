@@ -239,15 +239,15 @@ if(isset($_SESSION['userid']))
             </div>
         </div>-->
         <div class="row">
-          <div class="col-md-4 col-md-push-4"><h3 style="font-size:50px;font-family: 'Yanone Kaffeesatz', sans-serif;text-align:center;color:#337AB7">Developers</h3><hr style="margin-top:-40px;">
+          <!-- <div class="col-md-4 col-md-push-4"><h3 style="font-size:50px;font-family: 'Yanone Kaffeesatz', sans-serif;text-align:center;color:#337AB7">Developers</h3><hr style="margin-top:-40px;">
           <div class="col-md-12">
             <h4 style="font-family: 'PT Sans Narrow', sans-serif;font-size:20px;text-align:center">Anshul Singh</h4>
           </div>
           <div class="col-md-12" style="margin-top:-17px;">
             <h4 style="font-family: 'PT Sans Narrow', sans-serif;font-size:20px;text-align:center" >Harshit Shah</h4>
-          </div>
+          </div> -->
           <div class="col-md-12"  style="margin-top:-17px;">
-            <h4 style="font-family: 'PT Sans Narrow', sans-serif;font-size:20px;text-align:center">Urjit Patel</h4>
+            <h4 style="font-family: 'PT Sans Narrow', sans-serif;font-size:20px;text-align:center">Raphael</h4>
           </div>
         </div>
         </div>
