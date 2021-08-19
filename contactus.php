@@ -211,9 +211,9 @@ if(isset($_SESSION['userid']))
               <div class="col-md-6">
                 <div class="row"><div class="col-md-6"><h3 style="font-family: 'Yanone Kaffeesatz', sans-serif;color:#27DA93;font-size:30px;">Info</h3><hr></div></div>
                 <div class="row"><div class="col-md-12"><p>If any queries please contact us using the below information or write to us.</p></div></div>
-                <div class="row"><div class="col-md-6"><h3 style="font-family: 'Yanone Kaffeesatz', sans-serif;color:#27DA93;font-size:30px;">Address</h3><hr><p>RaphEstates<br>Tagore Hostel<br>MNNIT<br>Allahabad</p></div><div class="col-md-6"><h3 style="font-family: 'Yanone Kaffeesatz', sans-serif;color:#27DA93;font-size:30px;">Email Address</h3><hr><p>dreamcare@gmail.com</p></div></div>
+                <div class="row"><div class="col-md-6"><h3 style="font-family: 'Yanone Kaffeesatz', sans-serif;color:#27DA93;font-size:30px;">Address</h3><hr><p>RaphEstates<br>Kenyatta Avenue<br>Nakuru<br>16498-20100</p></div><div class="col-md-6"><h3 style="font-family: 'Yanone Kaffeesatz', sans-serif;color:#27DA93;font-size:30px;">Email Address</h3><hr><p>raphestates@gmail.com</p></div></div>
                 <div class="row"><div class="col-md-6"><h3 style="font-family: 'Yanone Kaffeesatz', sans-serif;color:#27DA93;font-size:30px;">Phone</h3><hr></div></div>
-                <div class="row"><div class="col-md-12"><p>Landline: 0265-662536<br>Mobile: +91-9856201434</p></div></div>
+                <div class="row"><div class="col-md-12"><p>Landline: 0265-662536<br>Mobile: +254 756201434</p></div></div>
               </div>
               <div class="col-md-6 contact-right">
                   <div class="row"><div class="col-md-12"><h3 style="font-family: 'Yanone Kaffeesatz', sans-serif;color:#27DA93;font-size:30px;">Feeback Form</h3><hr></div></div>
