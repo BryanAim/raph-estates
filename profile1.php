@@ -193,7 +193,7 @@ $userid=$_SESSION['userid']; ?>
       <hr>
       <div class="row">
           <div class="col-md-3 profileinfo"><div class="profilepic"><img src="img/profile.jpg" class="imgsize" ></div>
-              <h1 style="text-align:center;background:#002363;margin:0;color:white;font-size:24px;padding:5%;">Urjit Patel</h1><br>
+              <h1 style="text-align:center;background:#002363;margin:0;color:white;font-size:24px;padding:5%;">My Name</h1><br>
               <div class="profileinfols active1" id="genactive"><a href="#" id="gen"><p>General Details</p></a></div>
               <div class="profileinfols " id="notiactive"><a href="#" id="not"><p>Notifications</p></a></a></div>
               <div class="profileinfols " id="sbactive"><a href="#" id="sb"><p>Sell</p></a></div>

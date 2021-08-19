@@ -48,7 +48,7 @@ if($res->num_rows==0)
 				 $query1="update user set login = '1' where id='$id'";
 $con1=con();
 $res1=$con1->query($query1);
-				 header('location:profile.php');
+				 header('location:profile1.php');
 
 				 }
 				 else
