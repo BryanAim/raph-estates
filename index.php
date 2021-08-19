@@ -328,16 +328,16 @@ if(isset($_SESSION['userid']))
         <div class="row">
             <div class="col-md-10 col-md-push-1">
             <div class="row">
-                <a href="city.php?city=Shabab"><div class="imgcol tint"><img src="img/delhi.jpg" class="img-responsive"><span class="cityname">Shabab</span></div></a>
-                <a href="city.php?city=Lanet"><div class="imgcol tint"><img src="img/mumbai.jpg" class="img-responsive"><span class="cityname">Lanet</span></div></a>
-                <a href="city.php?city=Ahmedabad"><div class="imgcol tint"><img src="img/ahemdabad.jpg" class="img-responsive"><span class="cityname">FreeArea</span></div></a>
-                <a href="city.php?city=Milimani"><div class="imgcol tint"><img src="img/jaipur.jpg" class="img-responsive"><span class="cityname">Milimani</span></div></a>
+                <a href="city.php?city=Shabab"><div class="imgcol tint"><img src="img/shabab.jpg" class="img-responsive"><span class="cityname">Shabab</span></div></a>
+                <a href="city.php?city=Lanet"><div class="imgcol tint"><img src="img/lanet.jpg" class="img-responsive"><span class="cityname">Lanet</span></div></a>
+                <a href="city.php?city=Ahmedabad"><div class="imgcol tint"><img src="img/freearea.jpg" class="img-responsive"><span class="cityname">FreeArea</span></div></a>
+                <a href="city.php?city=Milimani"><div class="imgcol tint"><img src="img/milimani.jpg" class="img-responsive"><span class="cityname">Milimani</span></div></a>
             </div>
             <div class="row">
                 <a href="city.php?city=Kabachia"><div class="imgcol tint"><img src="img/chennai.jpg" class="img-responsive"><span class="cityname">Kabachia</span></div></a>
-                <a href="city.php?city=Koltaka"><div class="imgcol tint"><img src="img/kolkata.jpg" class="img-responsive"><span class="cityname">Freehold</span></div></a>
-                <a href="city.php?city=Lakeview"><div class="imgcol tint"><img src="img/banglore.jpg" class="img-responsive"><span class="cityname">Lakeview</span></div></a>
-               <a href="city.php?city=Section58"> <div class="imgcol tint"><img src="img/hyderabad.jpg" class="img-responsive"><span class="cityname">Section58</span></div></a>
+                <a href="city.php?city=Koltaka"><div class="imgcol tint"><img src="img/freehold.jpg" class="img-responsive"><span class="cityname">Freehold</span></div></a>
+                <a href="city.php?city=Lakeview"><div class="imgcol tint"><img src="img/lakeview.jpg" class="img-responsive"><span class="cityname">Lakeview</span></div></a>
+               <a href="city.php?city=Section58"> <div class="imgcol tint"><img src="img/section58.jpg" class="img-responsive"><span class="cityname">Section58</span></div></a>
             </div>
             </div>
         </div>

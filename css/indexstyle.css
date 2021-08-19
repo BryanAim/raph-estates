@@ -122,7 +122,7 @@ p{
 
 .bg{
 	/* linear-gradient( rgba(78, 197, 241, .5), rgba(78, 197, 241, .5) ),*/
-	background: linear-gradient( rgba(78, 197, 241, .4), rgba(78, 197, 241, .4) ), url('../img/bg.jpg');
+	background: linear-gradient( rgba(78, 197, 241, .4), rgba(78, 197, 241, .4) ), url('../img/Nakuru.png');
 	background-repeat: no-repeat;
 	min-height: 550px;
 	background-size: cover;
